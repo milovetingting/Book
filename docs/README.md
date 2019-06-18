@@ -1,20 +1,22 @@
 # 目录
 
-## 《Android开发艺术探索》笔记
+## 学习笔记
 
-### [1、Activity的生命周期和启动模式](《Android开发艺术探索》笔记/1、Activity的生命周期和启动模式.md)
+### Android开发艺术探索
 
-### [2、IPC机制](《Android开发艺术探索》笔记/2、IPC机制.md)
+#### [Activity的生命周期和启动模式](学习笔记/Android开发艺术探索/Activity的生命周期和启动模式.md)
 
-### [3、View的事件体系](《Android开发艺术探索》笔记/3、View的事件体系.md)
+#### [IPC机制](学习笔记/Android开发艺术探索/IPC机制.md)
 
-### [4、View的工作原理](《Android开发艺术探索》笔记/4、View的工作原理.md)
+#### [View的事件体系](学习笔记/Android开发艺术探索/View的事件体系.md)
 
-### [5、RemoteViews](《Android开发艺术探索》笔记/5、RemoteViews.md)
+#### [View的工作原理](学习笔记/Android开发艺术探索/View的工作原理.md)
 
-### [6、Drawable](《Android开发艺术探索》笔记/6、Drawable.md)
+#### [RemoteViews](学习笔记/Android开发艺术探索/RemoteViews.md)
 
-### [7、Android动画](《Android开发艺术探索》笔记/7、Android动画.md)
+#### [Drawable](学习笔记/Android开发艺术探索/Drawable.md)
+
+#### [Android动画](学习笔记/Android开发艺术探索/Android动画.md)
 
 ## Android
 
