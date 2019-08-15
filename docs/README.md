@@ -38,7 +38,7 @@
 
 ### [Android中的线程池](Android/Android中的线程池.md)
 
-### [Android多渠道打包](Android多渠道打包.md)
+### [Android多渠道打包](Android/Android多渠道打包.md)
 
 ## Web
 
