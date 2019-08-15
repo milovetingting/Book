@@ -38,6 +38,8 @@
 
 ### [Android中的线程池](Android/Android中的线程池.md)
 
+### [Android多渠道打包](Android多渠道打包.md)
+
 ## Web
 
 ### [简书不显示图片的解决方法](Web/简书不显示图片的解决方法.md)
