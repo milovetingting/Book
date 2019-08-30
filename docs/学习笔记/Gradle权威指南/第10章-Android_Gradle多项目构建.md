@@ -32,7 +32,7 @@ dependencies{
 
 3、启动。进入nexus-3.13.0-01目录下的bin目录，然后在命令行中输入./nexus start，启动nexus。
 
-4、浏览器访问http://localhost:8081，如访问成功，即表示nexus搭建成功。以默认的管理员帐号admin,密码admin123登录，可以看到默认创建的仓库。
+4、浏览器访问http://localhost:8081 ,如访问成功，即表示nexus搭建成功。以默认的管理员帐号admin,密码admin123登录，可以看到默认创建的仓库。
 
 nexus的具体配置这里不展开讲，具体可以在网上找相关资源，这里只用默认配置。
 
