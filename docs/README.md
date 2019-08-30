@@ -18,6 +18,28 @@
 
 #### [Android动画](学习笔记/Android开发艺术探索/Android动画.md)
 
+### Android Gradle权威指南
+
+#### [Gradle入门](学习笔记/Gradle权威指南/第1章-Gradle入门.md)
+
+#### [Groovy基础](学习笔记/Gradle权威指南/第2章-Groovy基础.md)
+
+#### [Gradle构建脚本基础](学习笔记/Gradle权威指南/第3章-Gradle构建脚本基础.md)
+
+#### [Gradle任务](学习笔记/Gradle权威指南/第4章-Gradle任务.md)
+
+#### [Gradle插件](学习笔记/Gradle权威指南/第5章-Gradle插件.md)
+
+#### [Java Gradle插件](学习笔记/Gradle权威指南/第6章-Java Gradle插件.md)
+
+#### [Android Gradle插件](学习笔记/Gradle权威指南/第7章-Android Gradle插件.md)
+
+#### [自定义Android Gradle工程](学习笔记/Gradle权威指南/第8章-自定义Android Gradle工程.md)
+
+#### [Android Gradle 高级自定义](学习笔记/Gradle权威指南/第9章-Android Gradle 高级自定义.md)
+
+#### [Android Gradle 多项目构建](学习笔记/Gradle权威指南/第10章-Android Gradle 多项目构建.md)
+
 ## Android
 
 ### [VirtualAPK的简单使用](Android/VirtualAPK的简单使用.md)
