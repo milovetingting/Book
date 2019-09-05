@@ -40,6 +40,8 @@
 
 #### [Android_Gradle多项目构建](学习笔记/Gradle权威指南/第10章-Android_Gradle多项目构建.md)
 
+#### [Android_Gradle多渠道构建](学习笔记/Gradle权威指南/第11章-Android_Gradle多渠道构建.md)
+
 ## Android
 
 ### [VirtualAPK的简单使用](Android/VirtualAPK的简单使用.md)
@@ -61,6 +63,8 @@
 ### [Android中的线程池](Android/Android中的线程池.md)
 
 ### [Android多渠道打包](Android/Android多渠道打包.md)
+
+### [Android_Studio_NDK开发](Android/Android Studio NDK开发.md)
 
 ## Web
 
